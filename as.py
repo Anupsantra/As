@@ -261,7 +261,7 @@ def login_lagi334():
 
 #------------------[ MENU ]----------------#
  #===©===#
-class jalan:
+class:
     def __init__(self, z):
         for e in z + "\n":
             sys.stdout.write(e)
